@@ -40,16 +40,9 @@
 
 .first-body
 {
+  padding-top: 2rem;
   padding-left: 13rem;
 }
-
-/* .creator-name
-{
-  font-weight: bold;
-  font-family: 'Montserrat', sans-serif;
-  color: #ffd700;
-  margin-top: 3rem;
-} */
 
 .intro-text
 {
